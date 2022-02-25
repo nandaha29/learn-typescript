@@ -1,0 +1,6 @@
+- npm install -g typescript
+
+lesson 2 
+- masih terpisah dan buat secara manual
+- cara membuat convert dari ts ke js -> $ tsc sandbox.ts
+- cara mmebuat setiap scr realtime -> $ tsc sandbox.tc -w
